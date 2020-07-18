@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+*venv
+.ipynb_checkpoints/
+.tox
+.env
+data/*
+!data/.gitkeep
+docs/build
+.vscode

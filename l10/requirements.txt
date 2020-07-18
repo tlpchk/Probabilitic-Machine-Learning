@@ -1,0 +1,10 @@
+numpy
+scipy
+torch
+torchvision
+pyro-ppl
+matplotlib
+seaborn
+jupyter
+tqdm
+scikit-learn
